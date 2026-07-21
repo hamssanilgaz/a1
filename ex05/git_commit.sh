@@ -1,4 +1,4 @@
-git log -5 --pretty=format:"%H"; printf '\n'
+qgit log -5 --pretty=format:"%H"; printf '\n'
 
 
 
