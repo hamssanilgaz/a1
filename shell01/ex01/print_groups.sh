@@ -1,2 +1,0 @@
-id -Gn $USER | tr ' '  ','
-
