@@ -1,2 +1,46 @@
 .DS_Store
 mywork.c~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git log
+git diff
+git show
+
+git remote -v
+git remote add origin <url>
+git remote remove origin
+git remote set-url origin <url>
+
+git branch
+git branch feature-login
+git switch feature-login
+git switch -c feature-login
+git merge feature-login
+git branch -d feature-login
+
+git restore
